@@ -29,10 +29,10 @@ A modern anime discovery platform. Search anime, view detailed info, watch trail
 
 ## 📸 Preview
 
-<img width="1358" height="2539" alt="streaminganime" src="https://github.com/user-attachments/assets/49a53303-e5fd-448e-b0db-3583c5cf2820" />
-<img width="1358" height="4310" alt="anistream12 vercel app_Watch_16498" src="https://github.com/user-attachments/assets/19ab367d-97dd-4f62-aacf-6ac902f976f1" />
-<img width="1358" height="3767" alt="anistream12 vercel app_ (1)" src="https://github.com/user-attachments/assets/ba86fee2-a449-434e-9b8b-f878c2a872e1" />
-<img width="1358" height="2950" alt="anistream12 vercel app_" src="https://github.com/user-attachments/assets/6aad619d-2e7d-4c0e-a62d-e5a90f83f72a" />
+<img width="400" alt="streaminganime" src="https://github.com/user-attachments/assets/49a53303-e5fd-448e-b0db-3583c5cf2820" />
+<img width="400" alt="anistream12 vercel app_Watch_16498" src="https://github.com/user-attachments/assets/19ab367d-97dd-4f62-aacf-6ac902f976f1" />
+<img width="400" alt="anistream12 vercel app_ (1)" src="https://github.com/user-attachments/assets/ba86fee2-a449-434e-9b8b-f878c2a872e1" />
+<img width="400" alt="anistream12 vercel app_" src="https://github.com/user-attachments/assets/6aad619d-2e7d-4c0e-a62d-e5a90f83f72a" />
 
 ---
 
