@@ -39,6 +39,10 @@ A modern anime discovery platform. Search anime, view detailed info, watch trail
 ## 🚀 Live Demo
 
 https://anistream12.vercel.app/
+https://anistream12.netlify.app/
+
+Due to image optimization issue the banner image of anime in vercel sometime can't be see.
+Also don't reload the site too much at a time otherwsie it gives the error due to rate limiting.
 
 ---
 
