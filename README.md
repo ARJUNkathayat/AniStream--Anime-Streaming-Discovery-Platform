@@ -49,6 +49,8 @@ Also don't reload the site too much at a time otherwsie it gives the error due t
 ## ⚠️ Note
 
 This is a personal/educational project built for learning purposes. Anime data and streaming sources belong to their respective owners/platforms. Source code is private — this repo serves as a project showcase.
+Disclaimer: Built purely for educational/learning purposes. AniStream doesn't host any content — all data/media sourced from publicly available third-party APIs. Not intended to promote piracy; all rights belong to respective anime studios/platforms.
+
 
 ---
 
